@@ -1,2 +1,3 @@
-# Sample9_6_clod
+# ContinuousLodTerrainDemo
+
 continuous Level of Detail using Vulkan API
